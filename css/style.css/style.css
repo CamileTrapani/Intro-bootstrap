@@ -16,10 +16,23 @@
 }
 
 .contato {
-    background-color: #8181F7;
+    background-color: white;
 }
 
 .margin {
     padding-top: 1px;
     padding-bottom: 1px;
 }
+
+.linkedin {
+    padding-top: 20px;
+}
+
+.footer {
+    background-color: #1C1C1C;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    color: whitesmoke;
+    text-align: center;
+}
+
