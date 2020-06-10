@@ -1,13 +1,12 @@
 
-.margin {
-    padding-top: 300px;
-}
-
 .home {
+    padding-top: 0cm;
+    padding-bottom: 0cm;
     background-color:#A4A4A4;
 }
 
 .curriculo {
+    padding-top: 0cm;
     background-color: #A4A4A4;
 }
 
@@ -21,4 +20,8 @@
 
 .contato {
     background-color: #8181F7;
+}
+
+.margin {
+    padding-top: 300px;
 }
