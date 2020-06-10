@@ -1,21 +1,18 @@
 
 .home {
-    padding-top: 0cm;
-    padding-bottom: 0cm;
-    background-color:#A4A4A4;
+    background-color:#F2F2F2;
 }
 
 .curriculo {
-    padding-top: 0cm;
-    background-color: #A4A4A4;
+    background-color: #E6E6E6;
 }
 
 .trabalho-voluntario {
-    background-color: #A4A4A4;
+    background-color: #D8D8D8;
 }
 
 .hobbies {
-    background-color: #A4A4A4;
+    background-color: #BDBDBD;
 }
 
 .contato {
@@ -23,5 +20,6 @@
 }
 
 .margin {
-    padding-top: 300px;
+    padding-top: 1px;
+    padding-bottom: 1px;
 }
