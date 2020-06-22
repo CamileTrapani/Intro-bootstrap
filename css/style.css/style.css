@@ -11,7 +11,7 @@
     background-color: #D8D8D8;
 }
 
-.hobbies {
+.projetos {
     background-color: #BDBDBD;
 }
 
@@ -34,5 +34,9 @@
     padding-bottom: 5px;
     color: whitesmoke;
     text-align: center;
+}
+
+.botao {
+    background-color: gray;
 }
 
